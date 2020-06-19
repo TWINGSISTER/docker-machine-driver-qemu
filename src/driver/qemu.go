@@ -368,7 +368,7 @@ func (d *Driver) Create() error {
 		}
 	}
 
-	log.Infof("Starting QEMU VM...")
+	log.Infof("Starting non admin QEMU VM ...")
 	return d.Start()
 }
 

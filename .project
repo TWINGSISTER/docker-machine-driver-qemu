@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Qemu-driver-fork</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.googlecode.goclipse.goBuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.googlecode.goclipse.core.goNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Jigtools</name>
+			<type>2</type>
+			<location>Z:/PortableApps/Eclipse/home/go/src/github.com/jigtools/docker-machine-driver-qemu</location>
+		</link>
+		<link>
+			<name>exe</name>
+			<type>2</type>
+			<location>Z:/PortableApps/Eclipse/home/go/bin</location>
+		</link>
+	</linkedResources>
+</projectDescription>
