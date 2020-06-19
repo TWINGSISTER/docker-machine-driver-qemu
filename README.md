@@ -1,4 +1,11 @@
-# Docker machine qemu driver
+# WORK IN PROGRESS
+# NO IDEA HOW TO DO THIS
+# COMMENTS ARE WELCOME 
+# DEV WITH QECLIPSE 
+# DO NOT CLONE, NOT WORKING!!!
+# Docker machine qemu driver for portable Docker
+# no admin priv, no bios virt, win 
+# (if it can be done must be in QEMU)
 
 I needed a non-libvirt qemu driver, so this is it.
 
